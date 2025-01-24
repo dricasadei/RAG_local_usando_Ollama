@@ -1,0 +1,1 @@
+# RAG_local_usando_Ollama
