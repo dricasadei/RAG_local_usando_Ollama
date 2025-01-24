@@ -1,4 +1,4 @@
-# RAG_local_usando_Ollama
+# Implementando uma RAG rodando localmente usando Ollama
 
 - Implementação baseada no artigo: [Build your own RAG and run it locally: Langchain + Ollama + Streamlit](https://medium.com/@vndee.huynh/build-your-own-rag-and-run-it-locally-langchain-ollama-streamlit-181d42805895)
 
